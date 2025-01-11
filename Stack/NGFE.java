@@ -2,6 +2,8 @@ package Stack;
 
 import java.util.*;
 
+// GFG code with improved version at line 43 to prevent empty stack exceptions
+
 public class NGFE {
     // Java program of Next Greater Frequency Element
 
